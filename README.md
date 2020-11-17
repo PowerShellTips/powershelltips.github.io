@@ -1,2 +1,2 @@
 # powershelltips.github.io
-PowerShell Tips and Tricks
+PowerShell Tips, Tricks, and Code Snippets
